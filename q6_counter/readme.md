@@ -14,7 +14,7 @@ the box goes down by 1.  **Make sure you place this button after the increment b
 3. Add another button, this time with the label "Reset",  that when it is clicked, it will
 reset the number in the box to 0. **Make sure you place this as the last button**.
 
-4. Make it such the user cannot reduce the number in the box to below 0, and cannot raise it above 10.
+4. Make it such the 
 
 5. Challenge: Make it such that when the number in the box is even, the background color of the
 numbr is green, and when the number is odd, the background color is red. Note: 0 is considered as even.
